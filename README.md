@@ -20,6 +20,7 @@ A robust, lightweight, and easily maintainable network-wide ad-blocking and DNS 
 └── README.md             # Project documentation
 
 ```
+---
 
 ## ⚙️ Configuration (docker-compose.yml)
 
